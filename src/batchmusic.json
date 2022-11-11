@@ -3,30 +3,30 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Toquinho"},
+                  "SongTitle": {"S": "Aquarela"},
+                  "AlbumTitle": {"S": "Aquarela"},
+                  "SongYear": {"S": "1998"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Toquinho"},
+                  "SongTitle": {"S": "O Filho que eu quero ter"},
+                  "AlbumTitle": {"S": "Aquarela"},
+                  "SongYear": {"S": "1998"}
                 }
             }
         },
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "Chico Buarque"},
+                  "SongTitle": {"S": "Busca"},
+                  "AlbumTitle": {"S": "Não sei"},
+                  "SongYear": {"S": "1995"}
                 }
             }
         }
